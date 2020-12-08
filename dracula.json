@@ -1,0 +1,88 @@
+{
+    /* Color config
+    There are 16 basic colors supported :
+        * default
+        * black
+        * red
+        * green
+        * yellow
+        * blue
+        * magenta
+        * cyan
+        * grey
+        * light_red
+        * light_green
+        * light_yellow
+        * light_blue
+        * light_magenta
+        * light_cyan
+        * white
+    and 256 terminal's colors from 0 to 255
+    */
+
+    "DECORATED_NAME" : 120,
+    "CYCLE_COLOR" :[103,159,120,222,212,183],
+    "TWEET" : {
+        "mynick"          : 222,
+        "nick"            : 229,
+        "clock"           : 212,
+        "id"              : 222,
+        "client"          : 103,
+        "favorited"       : 212,
+        "retweet_count"   : 212,
+        "favorite_count"  : 183,
+        "rt"              : 231,
+        "link"            : 159,
+        "hashtag"         : 231,
+        "mytweet"         : 179,
+        "keyword"         : 212
+    },
+
+    "NOTIFICATION":{
+        "source_nick"   : 212,
+        "notify"        : 212,
+        "clock"         : 212
+    },
+
+    "MESSAGE" : {
+        "partner"       : 212,
+        "me"            : 212,
+        "partner_frame" : 212,
+        "me_frame"      : 212,
+        "sender"        : 212,
+        "recipient"     : 212,
+        "to"            : 212,
+        "clock"         : 212,
+        "id"            : 212
+    },
+
+    "PROFILE" : {
+        "statuses_count"    : 212,
+        "friends_count"     : 212,
+        "followers_count"   : 212,
+        "nick"              : 212,
+        "profile_image_url" : 212,
+        "description"       : 212,
+        "location"          : 112,
+        "url"               : 212,
+        "clock"             : 212
+    },
+
+    "TREND" : {
+        "url": 212
+    },
+
+    "CAL" : {
+        "days": 183,
+        "today": 212
+    },
+
+    "GROUP" : {
+        "name": 212,
+        "member": 212,
+        "subscriber": 212,
+        "mode": 212,
+        "description": 212,
+        "clock": 212
+    }
+}
